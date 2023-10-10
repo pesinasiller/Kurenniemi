@@ -1,0 +1,22 @@
+.synth {
+  animation-iteration-count: infinite;
+  animation-name: change-color;
+}
+
+@keyframes change-color {
+  0% {
+    background-color: hotpink;
+  }
+  25% {
+    background-color: tomato;
+  }
+  50% {
+    background-color: orange;
+  }
+  75% {
+    background-color: slateblue;
+  }
+  100% {
+    background-color: teal;
+  }
+}
