@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kurenniemi/static/css/main.0a449e6c.css",
+    "main.js": "/Kurenniemi/static/js/main.b1432806.js",
+    "static/js/787.aad95e64.chunk.js": "/Kurenniemi/static/js/787.aad95e64.chunk.js",
+    "index.html": "/Kurenniemi/index.html",
+    "main.0a449e6c.css.map": "/Kurenniemi/static/css/main.0a449e6c.css.map",
+    "main.b1432806.js.map": "/Kurenniemi/static/js/main.b1432806.js.map",
+    "787.aad95e64.chunk.js.map": "/Kurenniemi/static/js/787.aad95e64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a449e6c.css",
+    "static/js/main.b1432806.js"
+  ]
+}
